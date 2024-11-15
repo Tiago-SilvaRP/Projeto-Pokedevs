@@ -1,5 +1,5 @@
 # Projeto Pokedeves 
-Um projeto realizado em 3 dias saindo do zero absoluto de conhecimento de programação.
+Um projeto realizado saindo do zero absoluto de conhecimento de programação.
 
 [<img src="./src/imagens/imagem.gif" alt= "gif do funcionamento da seleção de personagens Pokedev">]
 
