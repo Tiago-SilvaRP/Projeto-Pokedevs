@@ -1,4 +1,4 @@
-# Projeto Pokedeves 
+# Projeto Pokedevs 
 Um projeto realizado saindo do zero absoluto de conhecimento de programação.
 
 [<img src="./src/imagens/imagem.gif" alt= "gif do funcionamento da seleção de personagens Pokedev">]
