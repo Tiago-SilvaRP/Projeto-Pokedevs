@@ -7,18 +7,18 @@ selecionar personagens, recebendo feedback visual imediato.
 
 # 🎮 Funcionalidades
 
-# Exibição de Personagens:
+Exibição de Personagens:
 
 Apresenta uma lista ou galeria de personagens com imagens,
 nomes e descrições.
 
-# Seleção de Personagem:
+Seleção de Personagem:
 
 O usuário pode selecionar um personagem clicando na lista de nomes.
 
 O personagem selecionado é destacado visualmente.
 
-# Responsividade:
+Responsividade:
 
 Design responsivo para garantir uma boa experiência em dispositivos 
 móveis e desktops.
